@@ -35,9 +35,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="260"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yisaaaa&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=Yisaaaa&show_icons=true&theme=transparent" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yisaaaa&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yisaaaa&layout=compact" />
 
 
 <img src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif" width="400"/>
