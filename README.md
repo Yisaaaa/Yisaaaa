@@ -6,7 +6,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  <span>Hey! Nice to see you.</span></h1>
 
 
-<p>Welcome to my profile! My name is Luis, and I'm a passionate Computer Science student passionate about anything in tech.</p>
+<p>Welcome to my profile! My name is Luis, and I'm a Computer Science student passionate about anything in tech.</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
 
