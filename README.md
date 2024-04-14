@@ -1,5 +1,6 @@
 
 
+
 <img src="https://user-images.githubusercontent.com/38291523/199243059-3d9fb679-f963-42de-b1c1-62354e722f99.gif"/>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  <span>Hey! Nice to see you.</span></h1>
@@ -34,7 +35,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="260"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yisaaaa&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yisaaaa&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yisaaaa&layout=compact)
 
