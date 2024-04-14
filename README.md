@@ -28,7 +28,7 @@
 
 <h3>Languages and tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,react,mongodb,firebase,figma,python,java,jest,cypress,vscode,idea,linux,npm,postman,vite,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,react,express,mongodb,firebase,figma,python,java,jest,cypress,vscode,idea,linux,npm,postman,vite,git,github)](https://skillicons.dev)
 
 <br/>
 
