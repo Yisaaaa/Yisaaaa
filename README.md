@@ -10,19 +10,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"/>
 
-<h3><img src="https://user-images.githubusercontent.com/74038190/216656947-44e5d67b-e907-4646-99da-6a4b4f52ef81.gif" width="50"> 
- <span>I'm currently learning</span></h3>
-
-* Fullstack development
-* Machine learning
-* Calculus
-
-
-<br/>
-
-  **.........buttttt!!!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif"></img>
 
 
 
@@ -39,8 +26,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yisaaaa&layout=compact&theme=transparent" />
 
-
-<img src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif" width="400"/>
 
 <br>
 
